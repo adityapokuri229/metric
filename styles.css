@@ -11,6 +11,13 @@ h1 {
     font-weight: 500;
 }
 
+h5 {
+  color: yellow;
+  font-family: 'copperplate', fantasy;
+  letter-spacing:
+    font-weight: 500;
+}
+
 h2 {
   color: green;
   font-family: 'copperplate', fantasy;
